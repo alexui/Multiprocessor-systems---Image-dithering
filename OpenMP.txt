@@ -1,0 +1,4 @@
+1 threads : 206.3380
+2 threads : 121.6630
+4 threads : 56.1730
+8 threads : 52.6980

@@ -1,0 +1,12 @@
+1 processes: 
+	 1 threads : 224.3620
+	 2 threads : 118.7490
+	 4 threads : 113.1190
+2 processes: 
+	 1 threads : 171.8090
+	 2 threads : 65.6480
+	 4 threads : 81.0520
+4 processes: 
+	 1 threads : 103.0240
+	 2 threads : 100.7040
+	 4 threads : 106.9720
